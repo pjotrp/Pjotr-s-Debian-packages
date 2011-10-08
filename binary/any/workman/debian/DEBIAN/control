@@ -1,0 +1,9 @@
+Package: workman-layout
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: Pjotr Prins <pjotr.debian@thebird.nl>
+Description: Workman keyboard Layout
+ xmodmap and xbd layout files
